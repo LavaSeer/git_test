@@ -1,0 +1,18 @@
+Git commands:
+
+Git clone git@github.com:LavaSeer/GIT-TEST.git (or something like that): will clone the whole git project to your local device
+
+git push/ git push origin main: This will push your commited project parts to github so that others may view your changes
+
+git add . : this will add everything that you have changed in the local repository to the staging area
+
+git commit -m "a message describing the changes in this snapshot" : This will commit everything in your staging area, plus adding a message to say what you changed.
+
+git status : Pulls the status of the repository, what you have staged, and what you have committed.
+
+git log : Pulls the list of actions that this repository has taken.
+
+basig git syntax is: Program | Action | Destination
+
+
+
